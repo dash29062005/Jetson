@@ -1,3 +1,1 @@
-/usr/src/tensorrt/bin/trtexec --version
-git remote add origin https://github.com/dash29062005/Jetson.git
-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
+
